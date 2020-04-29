@@ -15,8 +15,9 @@ h3{
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
   position: relative;
+  opacity: 0.8;
 }
 
 .topnav #myLinks {
@@ -32,7 +33,7 @@ h3{
 }
 
 .topnav a.icon {
-  background: black;
+  background: white;
   display: block;
   position: absolute;
   right: 0;
@@ -40,12 +41,12 @@ h3{
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: red;
   color: black;
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: black;
   color: white;
 }
 
@@ -59,7 +60,6 @@ h3{
   padding-right: 30%;
   padding-left: 30%;
   padding-bottom: 2%;
-  width: 55%;
 }
 
 .item1 {

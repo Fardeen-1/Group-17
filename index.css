@@ -52,3 +52,9 @@ h1{
     width: 280px;
 
   }
+
+.food{
+  font-size: 20px;
+  padding-bottom: 10px;
+  list-style-type: none;
+}

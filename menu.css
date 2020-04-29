@@ -1,0 +1,67 @@
+body{
+  background: yellow;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+.menucontainer{
+  text-align: center;
+  padding-top: 2%;
+  padding-right: 30%;
+  padding-left: 30%;
+  width: 55%;
+}
+
+.item1 {
+  text-align: center;
+  background-color: yelow;
+}
+
+.title1{
+  text-align: left;
+}
+
+.button1{
+  text-align: right;
+}
